@@ -1,4 +1,7 @@
 # Aevum
+
+![Aevum Logotype](images/header.png)
+
 _A continuous digital calendar_
 
 While time is continous, many digital calendars aren't. Instead months are usually separated -- just like their paper counterparts. But why should digital calendars do so when technology could provide for a better user experience? 
