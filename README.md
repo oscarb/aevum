@@ -10,4 +10,4 @@ While time is continous, many digital calendars aren't. Instead months are usual
 
 For example: if an event starts the June 25th and ends July 7th, the user needs to switch back and forth between the view of June and July to get a visual overview of the event and it's duration. 
 
-**Solution:** Make a digital calendar that makes use of infinite scrolling and "stitches" units of time together. As the user scrolls more time units are loaded into view. While paper calendars ar limited to their material and can't scale easily, a digital calendar could in theory grow for as long as the user is able to scroll. 
+**Solution:** Make a digital calendar that makes use of infinite scrolling and "stitches" units of time together. As the user scrolls more time units are loaded into view. While paper calendars are limited to their material and can't scale easily, a digital calendar could in theory grow for as long as the user is able to scroll. 
